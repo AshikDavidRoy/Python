@@ -70,7 +70,6 @@ This roadmap outlines the essential topics to learn Python, covering basics, dat
 
 For more resources and a detailed roadmap, check out [roadmap.sh](https://roadmap.sh).
 
-<iframe src="python-1.png" width="100%" height="400px"></iframe>
-
+![Python Image](python-1.png)
 ---
 
