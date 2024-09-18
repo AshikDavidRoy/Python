@@ -72,4 +72,3 @@ For more resources and a detailed roadmap, check out [roadmap.sh](https://roadma
 
 ---
 
-This `README.md` can be used as an overview of your learning path in Python. Let me know if you need further modifications!
